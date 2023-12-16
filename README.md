@@ -1,16 +1,16 @@
 # resepku_getx
 
-A new Flutter project.
+# resepku (Bloc State Mangement)
 
-## Getting Started
+Resepku is a mobile application that provide multiple food recipe. In this version, GetX is used for maintaining the recipe data state. The food recipe data is retrieved from meal API. [TheMealDB](https://www.themealdb.com/api.php).
 
-This project is a starting point for a Flutter application.
+## Features
+- Get Food Recipe
+- Get Food Recipe By Category
+- Get Food Recipe By Country
+- Get Recipe Detail
+- Search Food Recipe
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technology
+- Meal API from [TheMealDB](https://www.themealdb.com/api.php)
+- GetX State Managment
