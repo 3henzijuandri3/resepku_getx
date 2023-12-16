@@ -1,4 +1,4 @@
-# resepku_getx
+# resepku (GetX State Management)
 Resepku is a mobile application that provide multiple food recipe. In this version, GetX is used for maintaining the recipe data state. The food recipe data is retrieved from meal API. [TheMealDB](https://www.themealdb.com/api.php).
 
 ## Features
