@@ -15,7 +15,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  final randomRecipeController =RandomRecipeController();
+  final randomRecipeController = Get.put(RandomRecipeController());
 
   void _onBottomNavigationBarItemTapped(int index) {
     switch (index) {
